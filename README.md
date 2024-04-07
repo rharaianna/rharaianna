@@ -5,6 +5,8 @@
 
 ### ED1
 [![Lista Contígua ](https://github-readme-stats.vercel.app/api/pin/?username=rharaianna&repo=ListaContigua&show_&theme=tokyonight&bg_color=00000000)](https://github.com/rharaianna/ListaContigua)
+[![Lista Contígua ](https://github-readme-stats.vercel.app/api/pin/?username=rharaianna&repo=ListaEncad&show_&theme=tokyonight&bg_color=00000000)](https://github.com/rharaianna/ListaEncad)
+<!--
 <!--
 **rharaianna/rharaianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
