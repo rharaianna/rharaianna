@@ -7,20 +7,10 @@
     <img alt="top langs" width="42.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rharaianna&layout=compact&theme=bear"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rharaianna&theme=redical)](https://github.com/rharaianna/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rharaianna&theme=redical)](https://github.com/rharaianna/github-readme-activity-graph)
 
 
-<hr color="#FE428EFF">
-<p>aaa</p>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-<!--
 <!--
 **rharaianna/rharaianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
